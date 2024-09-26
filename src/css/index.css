@@ -4,7 +4,7 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
+  color: rgba(0, 0, 0, 0.87);
   background-color: #242424;
 
   font-synthesis: none;
@@ -26,9 +26,10 @@ body {
   margin: auto;
   display: flex;
   place-items: center;
-  min-width: 320px;
+  min-width: 100vw;
   min-height: 100vh;
-  background-image: linear-gradient(to bottom right, black, #000080);
+  background-size:cover;
+  background-image: url('/src/assets/bg.gif');
 }
 
 h1 {

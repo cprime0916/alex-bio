@@ -1,3 +1,3 @@
-## cprime.github.io
+# ADD WHATEVER THE FUCK YOU WANT
 
-This website is **FUCKING** temporary! After EOY exam I will remove this shit bruh, and make an actual one in rust wasm.
+## RMB TO RENAME IT BEFORE I DELETE BRUH
